@@ -26,4 +26,4 @@ def label      = ""
 def country    = ""
 def no_of_reqs = 0
 
-RdioReqs (artist, album, label, country, 100)
+RdioReqs (artist, album, label, country, no_of_reqs)
